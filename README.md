@@ -1,2 +1,2 @@
 # Bank
-Implementing Mutual Exclusion Alogorithm (Ricart Agarwala)
+Implementing Ricart Agarwala - Mutual exclusion algorithm in Go
